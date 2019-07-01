@@ -1,0 +1,11 @@
+/* dobkin-script-regular - latin */
+
+@font-face {
+  font-family: 'Dobkin';  
+  src: local('Dobkin'), local('DobkinPlain'),       
+       url('../fonts/DobkinPlain-webfont.woff') format('woff'),
+       url('../fonts/DobkinPlain-webfont.ttf') format('truetype'),
+       url('../fonts/DobkinPlain-webfont.svg#dobkinplain') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
