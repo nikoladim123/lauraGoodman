@@ -9478,3 +9478,19 @@ p {
     margin-top: 1.3333vw;
   }
 }
+
+
+.heroImg{
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 100vh;
+  min-width: 100%;
+}
+/* @media (orientation:portrait) {
+  .heroImg{
+    width:  auto;
+    height: 100%;
+  }
+} */
